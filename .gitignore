@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Virtualenv / bytecode
+.venv/
+__pycache__/
+*.pyc
+
+# Test and tooling caches
+.pytest_cache/
+
+# Intermediate run artifacts from earlier build stages, superseded by
+# decision_predictions.csv. The committed artifacts are the ones the docs cite.
+code/evaluation/forecast_predictions.csv
+code/evaluation/sample_predictions.csv
+code/evaluation/sample_safety_trace.jsonl
+code/evaluation/safety_trace.jsonl

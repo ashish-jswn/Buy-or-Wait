@@ -1,0 +1,5704 @@
+{
+ "message_01": {
+  "key": "47013797feeba1ab17137c3b029e39e539a575a79f85ff3eff6144fbe02055d6",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "42750000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "42750000",
+     "currency": "IDR",
+     "effective_date": "2025-08-15",
+     "intent": "salary_increase",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_01",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_02"
+  }
+ },
+ "message_02": {
+  "key": "104a4fe6b6bd670b25d18649b00f664c7b5fe3e420e72e23bd6729efd35dcfd7",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "salary_next_with_arrears",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_02",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_03"
+  }
+ },
+ "message_03": {
+  "key": "a3adeb4e9f474cd640adf156db90a9a5fa708a37e4793bb7cd0bfb9339322e3a",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "bonus_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_03",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_04"
+  }
+ },
+ "message_04": {
+  "key": "33a1f537c613cf44d35426c5a5cf9e58d55ee85cb742e7cdb5c5447380f06b12",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1037.52",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1037.52",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_04",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_06"
+  }
+ },
+ "message_05": {
+  "key": "4e99fbc143eb7d534490cc4fcac913d10e1a4c177c97b7d9124410e10b64dfde",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": "2024-09-23",
+     "intent": "payday_moved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_05",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_07"
+  }
+ },
+ "message_06": {
+  "key": "924a2516bded851641a32ae40bd7a3270740a8a8b32b360b3802982c5911a0cc",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1422.85",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1422.85",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_06",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_08"
+  }
+ },
+ "message_07": {
+  "key": "84e64e37fed5c726aff6afaf05551775e7b5d89bb25e25023a6e55a67206af5c",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "payout_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_07",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_10"
+  }
+ },
+ "message_08": {
+  "key": "f518fe7079d88fd63abaae7c111190296050e5bf931f39f9063a2dd4a68e2008",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "38760000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "38760000",
+     "currency": "IDR",
+     "effective_date": null,
+     "intent": "base_salary_commission_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_08",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_11"
+  }
+ },
+ "message_09": {
+  "key": "2b2e7f4806780fda4e1bedf7f675bc2b3d93965c6345af4b2b4fa0805e9ff128",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "seasonal_contract_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_09",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_12"
+  }
+ },
+ "message_10": {
+  "key": "162078e6d6426be4c07bf4050b49925e5983934930d7bd2d1cab487b9a2fab02",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2717",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2717",
+     "currency": "EUR",
+     "effective_date": "2025-08-15",
+     "intent": "salary_resumes_with_childcare",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_10",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_14"
+  }
+ },
+ "message_100": {
+  "key": "9816556c3b6a6fd36881af1c6f45e432edcbc3aa0dd8ad5c0f2eb055bd501d2a",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2177.28",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2177.28",
+     "currency": "USD",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_100",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_130"
+  }
+ },
+ "message_101": {
+  "key": "b333379d15bbeb1337e40e4a9212ea9a476768af7a8eb79e688c9fc61e335776",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": "2025-05-23",
+     "intent": "payday_moved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_101",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_131"
+  }
+ },
+ "message_102": {
+  "key": "c9ebc399816a0d4ed221bf4a5ec4a31d35c72d622873a7d59755aca7bc4ca0be",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1193.4",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1193.4",
+     "currency": "USD",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_102",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_132"
+  }
+ },
+ "message_103": {
+  "key": "fc6a4465742447cfad1b06eb128f94727e1f03fdc52668fe3416af857ac53a6e",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "seasonal_contract_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_103",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_133"
+  }
+ },
+ "message_104": {
+  "key": "d8e72f5df00d25ab28fdda4cf2bf0260065290b473879ca01b113501a47ab9ba",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "828",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "828",
+     "currency": "USD",
+     "effective_date": "2026-07-15",
+     "intent": "salary_increase",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_104",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_135"
+  }
+ },
+ "message_105": {
+  "key": "8aa14ccc31e3cfec48012ad61d2fe71cebf9820e4ee6dfc893468b33cf03ecfb",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "rent_increase_pct",
+     "percent": "12",
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_105",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_137"
+  }
+ },
+ "message_106": {
+  "key": "3aeb530a68caef5a54c2927dcda7c0cac96bf9d01fa9fd7b2198fb9c9549b912",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "dispute_open",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_106",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_138"
+  }
+ },
+ "message_107": {
+  "key": "4eb9893a227982a923409b4f600680b08f8ec20d33b6339a3c3d37d86abf99ea",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "31900",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "31900",
+     "currency": "ZAR",
+     "effective_date": "2025-02-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_107",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_140"
+  }
+ },
+ "message_108": {
+  "key": "e60cd32e9353feb10f0616e1db1cd87b9a325962ff6dae1f627645eae53b5c09",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_sale_settled",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_108",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_141"
+  }
+ },
+ "message_109": {
+  "key": "33130e76fa44192f346c716801865b868bb1bd54e51b0bbbf6124ca615097020",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2040",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2040",
+     "currency": "USD",
+     "effective_date": "2024-12-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_109",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_142"
+  }
+ },
+ "message_11": {
+  "key": "b930938a1d887a56d6c853c6ed098769dbd419bc8f7437dffd4c235d05cec8ff",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1661",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1661",
+     "currency": "EUR",
+     "effective_date": "2026-01-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_11",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_15"
+  }
+ },
+ "message_110": {
+  "key": "8c807c0609b15f49bf1213130dc8c6190ffe31b236c046727ca3a1c1fea37be2",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_proceeds_settled",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_110",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_143"
+  }
+ },
+ "message_111": {
+  "key": "88706c4d5ad18706f031581a0225f1a9b9e234bf829732fe910cc036605629b6",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "864",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "864",
+     "currency": "USD",
+     "effective_date": "2026-07-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_111",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_144"
+  }
+ },
+ "message_112": {
+  "key": "651776d5bbf044d954adc8d136742cdd8989df36c7533c1ddfae60d06c07b3c3",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "258000",
+     "INR"
+    ],
+    [
+     "116100",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "258000",
+     "currency": "INR",
+     "effective_date": null,
+     "intent": "salary_next_with_arrears",
+     "percent": null,
+     "secondary_amount": "116100"
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_112",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_145"
+  }
+ },
+ "message_113": {
+  "key": "7506439b39afa6e854e2710930ab7fc6b703a1c155335fe59bfe1c5850162bc9",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1529",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1529",
+     "currency": "EUR",
+     "effective_date": "2026-04-15",
+     "intent": "salary_resumes_with_childcare",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_113",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_147"
+  }
+ },
+ "message_114": {
+  "key": "21cfb35e97e3d6fd2fbc36b70f761c84d1f2c1e167274f5f166ca1f1080432eb",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_sale_settled",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_114",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_148"
+  }
+ },
+ "message_115": {
+  "key": "2fa998030573e8d9c4f0dc7d0262f6d489feff38f4d3b6f584e7c64017cebb85",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "893.75",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "893.75",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_115",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_150"
+  }
+ },
+ "message_116": {
+  "key": "2ebef5ddc3cc7dfb2dc81347809402c777fb0b3a9dd2bc484a48991ff871750e",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "46170000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "46170000",
+     "currency": "IDR",
+     "effective_date": "2024-09-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_116",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_151"
+  }
+ },
+ "message_117": {
+  "key": "bfede897f3b996c988cf76f515d56e13c816954eaa59940b09a9a3368554fb57",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "reimbursement_closed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_117",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_152"
+  }
+ },
+ "message_118": {
+  "key": "03ea1fea32769c165cedeb42a2dd07fe29e2b9dcad3ca696c4078a7e915bb40b",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "fx_bill_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_118",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_153"
+  }
+ },
+ "message_119": {
+  "key": "f26758bf40d27912019f4d673efe4cf5bc9acc816d3ce05904af6914e63d3f62",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1628",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1628",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "remaining_household_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_119",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_154"
+  }
+ },
+ "message_12": {
+  "key": "6d5533628dc0378da3c21aea95cb7ca236831525e6c315aca06d93464ee7662c",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "rent_increase_pct",
+     "percent": "12",
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_12",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_16"
+  }
+ },
+ "message_120": {
+  "key": "1f9b68cf28566c5199fcc87f0b29b049886bafe52f7e46fdb4eabf714f2679b9",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "84000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "84000",
+     "currency": "INR",
+     "effective_date": "2025-05-15",
+     "intent": "salary_resumes_with_childcare",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_120",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_155"
+  }
+ },
+ "message_121": {
+  "key": "5276187fc0a41d1c7fe5385c23dd696de6abfea7f2b88a1f1d10f1ff0ac60c66",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "dispute_open",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_121",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_156"
+  }
+ },
+ "message_122": {
+  "key": "c10564bc2e319702f4d15aacd995fe25ad03c89f8a9279b47bd77cfaa1000a9d",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "23940000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "23940000",
+     "currency": "IDR",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_122",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_157"
+  }
+ },
+ "message_123": {
+  "key": "30e0385b3acac73d1daf2c398ab0f89d8fe6eb97e03251d28de0a7dfa4537caf",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "payout_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_123",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_159"
+  }
+ },
+ "message_124": {
+  "key": "bb519cf345504c8c06999918bba91ce4790eead21151eda9f604f965940148d6",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1672",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1672",
+     "currency": "EUR",
+     "effective_date": "2024-06-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_124",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_160"
+  }
+ },
+ "message_125": {
+  "key": "214daa2fdc52ea72579e26e4b127ae84943b99227a189fa01b5257b970c8b0e2",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "26790000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "26790000",
+     "currency": "IDR",
+     "effective_date": "2025-11-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_125",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_161"
+  }
+ },
+ "message_126": {
+  "key": "96a175a9237ac3d008b67077b69bfc20af62fae986797f3296f5d89c8c89351d",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "29070000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "29070000",
+     "currency": "IDR",
+     "effective_date": "2026-07-15",
+     "intent": "salary_increase",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_126",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_162"
+  }
+ },
+ "message_127": {
+  "key": "7d89ef96379414d5bb49febfd1c6a790b1db4c8c50d5236bf92cc9c015ec24ba",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "30400000",
+     "IDR"
+    ],
+    [
+     "13680000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "30400000",
+     "currency": "IDR",
+     "effective_date": null,
+     "intent": "salary_next_with_arrears",
+     "percent": null,
+     "secondary_amount": "13680000"
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_127",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_163"
+  }
+ },
+ "message_128": {
+  "key": "c6034cecc5bac4a0363a36ae0dbc9f42220c6288455361692dd54d4852f6c3d3",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "44270000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "44270000",
+     "currency": "IDR",
+     "effective_date": null,
+     "intent": "base_salary_commission_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_128",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_164"
+  }
+ },
+ "message_129": {
+  "key": "83fc65b3db9b3ce11289d63c8ecd071f24f915060d1972c9e8a958f4a4a9157e",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "employment_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_129",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_165"
+  }
+ },
+ "message_13": {
+  "key": "dfa6c2e7f5fe46da98441c5bd575c08d7d4cb9cc6ee6e7709919a42a7fc9f106",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "internal_transfer",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_13",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_18"
+  }
+ },
+ "message_130": {
+  "key": "f642917eb5abae2a3338fe54e4601d7c9fb9074020200c58161481a00985d083",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2340",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2340",
+     "currency": "USD",
+     "effective_date": "2024-12-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_130",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_166"
+  }
+ },
+ "message_131": {
+  "key": "90708a21995af5bc828b7402f12ca18d74215229720494fb052ab64782025287",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": "2025-05-23",
+     "intent": "payday_moved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_131",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_167"
+  }
+ },
+ "message_132": {
+  "key": "5e7ca76778d60024a2b17e5865778caf458f32d7ac1b66669cd52ea86fd08e08",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "137150",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "137150",
+     "currency": "INR",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_132",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_168"
+  }
+ },
+ "message_133": {
+  "key": "7e3c2f387880ee0f470ed9d4d31f49d4fdf84b3366fe5cc2b52566e70c582537",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "fx_refund_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_133",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_169"
+  }
+ },
+ "message_134": {
+  "key": "45faabeb735f477179b6db4ae56e19aea043c0ad30a2fff0173db6c7d587cae6",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_claim_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_134",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_170"
+  }
+ },
+ "message_135": {
+  "key": "47f57e32603694d5257a579556b3164f74a7ffb5855b1e8a2d1968fec2155993",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "internal_transfer",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_135",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_171"
+  }
+ },
+ "message_136": {
+  "key": "6f51ddb09bcc1104e08556a224800763fe99a2314c48e641732b75bf202591c6",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "two_card_minimums",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_136",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_172"
+  }
+ },
+ "message_137": {
+  "key": "38d97ccd067f21cc0e5af6e1f2e256efadec9c9611275085db148ca909764975",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1284",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1284",
+     "currency": "USD",
+     "effective_date": "2025-11-15",
+     "intent": "fx_salary_confirmed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_137",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_173"
+  }
+ },
+ "message_138": {
+  "key": "a8f6998aaf631c624ad7202ecb0630278b835a796f0db3e6c705c67603c732e9",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1924.56",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1924.56",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_138",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_175"
+  }
+ },
+ "message_139": {
+  "key": "d939004319e205e49aa3295b6732edb36f0e441b780596277178f479fb506c40",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "847",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "847",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "base_salary_commission_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_139",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_176"
+  }
+ },
+ "message_14": {
+  "key": "6734dad7e585ca64ab5afafef49cea8f69c55ecddb24e10c1a1e1d89dba85d4d",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "refund_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_14",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_20"
+  }
+ },
+ "message_140": {
+  "key": "8534ec949f30c7942921242187602ef0de8a9ac8a319f3f3006600117ece52c6",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1731.6",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1731.6",
+     "currency": "USD",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_140",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_177"
+  }
+ },
+ "message_141": {
+  "key": "ee76a1fabec56fb57f9ec84b753561ea84967e9bce1a8e70b16f85c54560e7fb",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2376",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2376",
+     "currency": "EUR",
+     "effective_date": "2024-12-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_141",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_178"
+  }
+ },
+ "message_143": {
+  "key": "6305024114300a657d5f90dc60a01fc81ac47ad29c7e0706f32bcfcf71f4b660",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "59000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "59000",
+     "currency": "INR",
+     "effective_date": "2026-07-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_143",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_180"
+  }
+ },
+ "message_144": {
+  "key": "64cf6b19de5ce56243b883e9d31032087913dd89b8bda39dc61440c1d57eed75",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "bonus_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_144",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_182"
+  }
+ },
+ "message_145": {
+  "key": "8631404df196f3595a0d286633eb856c69890ff7bdd635d43120156630f5ad5c",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "fx_bill_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_145",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_183"
+  }
+ },
+ "message_146": {
+  "key": "521584a5194eb931fb7507d0bb67ebfa3f752ff15c132f5f1508f70b2766fab7",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "fx_refund_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_146",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_184"
+  }
+ },
+ "message_147": {
+  "key": "880c1b06f747b92030f1a5c5f82c0db150d53c47e78fdf61c1564f93b8ecbf38",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "rent_increase_pct",
+     "percent": "12",
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_147",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_185"
+  }
+ },
+ "message_148": {
+  "key": "ecbe6aab3f91ce8c90bed69647732bf8a60308030b3e1258a596e7ccd829bc87",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "31889",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "31889",
+     "currency": "ZAR",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_148",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_186"
+  }
+ },
+ "message_149": {
+  "key": "2520f0c4b7a05098fe2db16f403ce081644733ab03a723d686b7b41446973e26",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "145000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "145000",
+     "currency": "INR",
+     "effective_date": "2024-09-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_149",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_187"
+  }
+ },
+ "message_15": {
+  "key": "a1d1fc106fe59b6809646be8e3dfa9c7d186ccedd9bed8619304b2d8c02376f8",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_value_unrealized",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_15",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_22"
+  }
+ },
+ "message_150": {
+  "key": "8c7050075ce8cfe6c0d55e4b37133da5d152f20dc69423cb71560c0feaeec172",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "reimbursement_closed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_150",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_188"
+  }
+ },
+ "message_151": {
+  "key": "eeb10b141aecf184f7f9197638ba4a213d79e1b96705f9b5659df8b5c922b76f",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "627",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "627",
+     "currency": "EUR",
+     "effective_date": "2026-07-15",
+     "intent": "salary_increase",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_151",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_189"
+  }
+ },
+ "message_152": {
+  "key": "1268df23166d09b8c6b317aca914ed644e4c1c666888086a4e06d385e7480372",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "refund_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_152",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_191"
+  }
+ },
+ "message_153": {
+  "key": "6a83676f8d859dc7fdb2c449a93888887239e889a5b39697ab88da41161db0ea",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1750.32",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1750.32",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_153",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_193"
+  }
+ },
+ "message_154": {
+  "key": "274742fd8c81e0ae4598deac75271b8d45a6ec4978e99ced37d9855093c5c5f0",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": "2025-08-23",
+     "intent": "payday_moved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_154",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_194"
+  }
+ },
+ "message_155": {
+  "key": "7b913fae6d59c1b6706197f95b16b3e96b7c4f8757a95201094800155e52571d",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1222.65",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1222.65",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_155",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_195"
+  }
+ },
+ "message_156": {
+  "key": "5fc55ca3b36b408ed886a3ba078aba4846bc2d4f7ac83a84c41ca1ed43b8719d",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "38190000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "38190000",
+     "currency": "IDR",
+     "effective_date": "2025-11-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_156",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_197"
+  }
+ },
+ "message_157": {
+  "key": "7a7a470c81cd705719e2e90dff50403ee0bf186e3b7f13a4070180bfb85313f2",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "dispute_open",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_157",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_198"
+  }
+ },
+ "message_158": {
+  "key": "bb43290c6c54824b00c7aa2cd0b9217c6b9cddddcbacb12296ee80e608d6e62f",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "payout_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_158",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_199"
+  }
+ },
+ "message_159": {
+  "key": "7cdbbd34979b072fe0c5222168bdbaa3ea50a842a514d8752606ee30ab255e97",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "bonus_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_159",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_200"
+  }
+ },
+ "message_16": {
+  "key": "59f1503317ca15bd7f82c20cc0a2808fe5022db9b894c4a6c6cbd3abd6e8c835",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_claim_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_16",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_23"
+  }
+ },
+ "message_160": {
+  "key": "33c4ffa4a8bb4b45be59696035858e1ba84e2ebc5d3ce0aec678a44c7f477ffe",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "seasonal_contract_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_160",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_201"
+  }
+ },
+ "message_161": {
+  "key": "bd1e8b8daf573332da334464eb05d06904ef8f04d06bb7d71e296f524865a31b",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "two_card_minimums",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_161",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_202"
+  }
+ },
+ "message_162": {
+  "key": "5945272e2432c02f9dafac5d4d86cf390d7c68d4b3b79afcbbe5f432a17d01ea",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2024",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2024",
+     "currency": "EUR",
+     "effective_date": "2026-01-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_162",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_204"
+  }
+ },
+ "message_163": {
+  "key": "254557c29ac46154a08a6d51a001467bc3bb9594a0194c02d9deb1b66026df7c",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_value_unrealized",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_163",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_208"
+  }
+ },
+ "message_164": {
+  "key": "e8ffb33443f889e873e5ab088e20170125c3bf7f7ec6529d872b6cb746a8dc26",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "dispute_open",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_164",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_210"
+  }
+ },
+ "message_165": {
+  "key": "b3200a8cfbb6ed9e1f1081f71442f2fabaded22883b27363dc31ad4711d5172a",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": "2025-02-23",
+     "intent": "payday_moved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_165",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_212"
+  }
+ },
+ "message_166": {
+  "key": "c3e39a365c21cb32c143d5c3ae9d555a3d9f3d55683a612be940a3ce6753aacb",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "seasonal_contract_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_166",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_213"
+  }
+ },
+ "message_167": {
+  "key": "d4421427938e12d221dab9be0b26979a79346800e74f0efcd069112dcf4a3f3b",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "fx_refund_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_167",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_214"
+  }
+ },
+ "message_168": {
+  "key": "eb68047c5516a03dcdd284af0a3f86200d3848c27ab06ea86d70e4fb60b9b40b",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "payout_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_168",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_215"
+  }
+ },
+ "message_169": {
+  "key": "dac959b5cc550af45fe22df165b9d91414952c655963140387cbf65c906df686",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2424",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2424",
+     "currency": "USD",
+     "effective_date": "2026-07-15",
+     "intent": "salary_increase",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_169",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_216"
+  }
+ },
+ "message_17": {
+  "key": "f61a69c1312fbc51647986c23a0fa06778952077b12bd90b8b23c265234488d0",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_proceeds_settled",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_17",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_24"
+  }
+ },
+ "message_170": {
+  "key": "3e62b30905b74cd9db05b16d548b1e74004ebeafb3d1cd5e046b0c2e2b9f3699",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1914",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1914",
+     "currency": "EUR",
+     "effective_date": "2026-04-15",
+     "intent": "salary_resumes_with_childcare",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_170",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_219"
+  }
+ },
+ "message_171": {
+  "key": "a3643d9fa6646fc6c42499de568fd16c43ae37a90d46ab5623a2682ab4090230",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1346.4",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1346.4",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_171",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_220"
+  }
+ },
+ "message_172": {
+  "key": "bd3d9f078ea6a734f9423d6ffe7b64cb67b541a677310c432a16eca24bd1edb3",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "refund_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_172",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_221"
+  }
+ },
+ "message_173": {
+  "key": "a8f67ebd34ea10f24d12dafd45048de82612dea1165445080fa25f5aa62c4abf",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "35200",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "35200",
+     "currency": "ZAR",
+     "effective_date": "2026-01-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_173",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_222"
+  }
+ },
+ "message_174": {
+  "key": "931b8f1c8c327150fc23958a93201cd9bf9dbc99b5b59fb922c55b941b4d7cf6",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "reimbursement_closed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_174",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_224"
+  }
+ },
+ "message_175": {
+  "key": "25b998ba4ddc206b051b5a8b4b6c6fb4ad8a01aeee9886bd47b1fe4aaa36ce33",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "rent_increase_pct",
+     "percent": "12",
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_175",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_225"
+  }
+ },
+ "message_176": {
+  "key": "d890b0aaed81062c3c3cb46fe8d80a99d1ae2a8d444442bc04998e0b87452f68",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "260000",
+     "INR"
+    ],
+    [
+     "117000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "260000",
+     "currency": "INR",
+     "effective_date": null,
+     "intent": "salary_next_with_arrears",
+     "percent": null,
+     "secondary_amount": "117000"
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_176",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_226"
+  }
+ },
+ "message_177": {
+  "key": "b68170249df5392f6e57b27d81c5d826aab1df6ae203b849c2153b20f6a77250",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "bonus_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_177",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_227"
+  }
+ },
+ "message_178": {
+  "key": "3e90e04cb2f7ad62e25cfa32104eff25b6149bd405230b4fbb022c5f55cdbfc2",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "30400000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "30400000",
+     "currency": "IDR",
+     "effective_date": "2026-04-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_178",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_228"
+  }
+ },
+ "message_179": {
+  "key": "d398e179195a1febab2f43aa235ca5b3d256b983f4481f7ef2a1c5ea350a9da5",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "failed_debit_retry",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_179",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_229"
+  }
+ },
+ "message_18": {
+  "key": "ba867a146ed6d2f3f0840ceaa2f0241d4916d1273db66e7f0046123ea7af81c1",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "30780000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "30780000",
+     "currency": "IDR",
+     "effective_date": "2025-08-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_18",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_26"
+  }
+ },
+ "message_180": {
+  "key": "a3bfd51cbbd568af364c5716274da6a5530a43ae68456554cee5a37421c47e37",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2827",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2827",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "remaining_household_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_180",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_230"
+  }
+ },
+ "message_181": {
+  "key": "da1242e25f05040464103200d8036e6de8c879386f851bfbf7da6197f919ab90",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2772",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2772",
+     "currency": "EUR",
+     "effective_date": "2024-06-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_181",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_232"
+  }
+ },
+ "message_182": {
+  "key": "2c97265c7f20e6a529e4519485c8d651946a2b272166e969f241e7773e63ba3e",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "16910000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "16910000",
+     "currency": "IDR",
+     "effective_date": "2025-11-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_182",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_233"
+  }
+ },
+ "message_183": {
+  "key": "fc5181d330f35d99aedeae3f301a5d7426ab7d05aef448927b46b9a14e0d2465",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "dispute_open",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_183",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_234"
+  }
+ },
+ "message_184": {
+  "key": "9dc73e2e62d34d292eaa8e9357a052323950eae847f757edc7aa06b8fe4d1617",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "fx_refund_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_184",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_235"
+  }
+ },
+ "message_185": {
+  "key": "97b7a2ab612cccb017942de3d021975428fc4aa553d0cea91272ecd9ce30cff1",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_value_unrealized",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_185",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_236"
+  }
+ },
+ "message_186": {
+  "key": "7ff2f174d2300759c84a6b61c86a1b22a4e5bc5678b25f08ce232649aaac0224",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "seasonal_contract_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_186",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_237"
+  }
+ },
+ "message_187": {
+  "key": "195767df20bd7827392fa0fab2fe1c38316e34fc9ec7f4f453b89cfe6dab890d",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "912",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "912",
+     "currency": "USD",
+     "effective_date": null,
+     "intent": "remaining_household_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_187",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_238"
+  }
+ },
+ "message_188": {
+  "key": "5be5cc8cdc14d35e1680b769590db822352a97b7b678f636320c194dbc80869d",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "62000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "62000",
+     "currency": "INR",
+     "effective_date": "2026-01-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_188",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_240"
+  }
+ },
+ "message_189": {
+  "key": "b1a1cf37c68fcb30671177b39b364460713ac921c5300c771932fd7e0f4ca965",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "seasonal_contract_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_189",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_241"
+  }
+ },
+ "message_19": {
+  "key": "a5d72f5c79944ed3dc00371de49243cb51b4ed6ddda13e02e62284924d5e6e0e",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "payout_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_19",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_27"
+  }
+ },
+ "message_190": {
+  "key": "9a0ec8a32e234f25535d5d271f512fc093b7194e8a2a3225583eb2cc2f1a4f88",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "968",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "968",
+     "currency": "EUR",
+     "effective_date": "2025-08-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_190",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_242"
+  }
+ },
+ "message_191": {
+  "key": "9651fe75646bf8120e999018012ea428dc6823899cb6622703bbdec2f2cd09c2",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1680",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1680",
+     "currency": "USD",
+     "effective_date": "2025-11-15",
+     "intent": "fx_salary_confirmed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_191",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_245"
+  }
+ },
+ "message_192": {
+  "key": "f6918d2fbd34e62d713c16d57638e8b720c10d4a80ab793f71faa2a3f04c52a2",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "employment_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_192",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_246"
+  }
+ },
+ "message_193": {
+  "key": "4e04bb7b4c565ef2bdbfd40ea4c650de3b63ede629b8fe618e06f22534f84aa8",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1528.56",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1528.56",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_193",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_247"
+  }
+ },
+ "message_194": {
+  "key": "cf95ad7e85a0aec3cd2a806837085d4e1d47150df3a63f1050fe34279de86ec3",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1548",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1548",
+     "currency": "USD",
+     "effective_date": null,
+     "intent": "base_salary_commission_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_194",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_248"
+  }
+ },
+ "message_195": {
+  "key": "e54802a31fe076ba281355758a21eb64df5c0352582651fcb64ca5cccdd87c57",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "702",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "702",
+     "currency": "USD",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_195",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_249"
+  }
+ },
+ "message_196": {
+  "key": "cddb2df1b45e38f73629854b24c9ed245e65aeec347a7567fa1ee7bae57fdda8",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "53680",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "53680",
+     "currency": "ZAR",
+     "effective_date": "2024-12-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_196",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_250"
+  }
+ },
+ "message_197": {
+  "key": "cb640fc8f1b3a46f3b6c22207bb35e728713232964b7981acf6490507d529866",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "dispute_open",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_197",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_252"
+  }
+ },
+ "message_198": {
+  "key": "d337b2fc574bd587dc3f9bbf106fe1fcedb08d0bd79bd0a00086baf0e5a02f49",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "failed_debit_retry",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_198",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_253"
+  }
+ },
+ "message_199": {
+  "key": "0fea5d14a0300c5ee0e9cb4ed2c33fb7ffb6ce6b59f7b48514323eb1a636d67d",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "bonus_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_199",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_254"
+  }
+ },
+ "message_20": {
+  "key": "13d5573b6d146557a8ccd17be6cc3f7c580f722e853dece8858bb17918510e5b",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1452",
+     "EUR"
+    ],
+    [
+     "653.4",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1452",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "salary_next_with_arrears",
+     "percent": null,
+     "secondary_amount": "653.4"
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_20",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_28"
+  }
+ },
+ "message_200": {
+  "key": "528850fe80d01d76242ab105afcdbd77e194fe9e0cb8918207f3a4d66e0788e9",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "214000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "214000",
+     "currency": "INR",
+     "effective_date": "2024-06-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_200",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_256"
+  }
+ },
+ "message_201": {
+  "key": "1a59eb28db01a6cb4b5c5a70e3b2d37a4e01ad0aeb7028568d5f6c368ab8e1ac",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "failed_debit_retry",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_201",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_259"
+  }
+ },
+ "message_202": {
+  "key": "3520d767608e5358937f2348bfb3cdfae9818d7da68de42ad0dd2fca21c97845",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "internal_transfer",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_202",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_261"
+  }
+ },
+ "message_203": {
+  "key": "702b89542b14dd6173cfc6ac42d0eb44d3aebdc59bf38ea8f32fa8e2f6aa5733",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "48260000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "48260000",
+     "currency": "IDR",
+     "effective_date": null,
+     "intent": "remaining_household_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_203",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_262"
+  }
+ },
+ "message_204": {
+  "key": "7b216d6fdc7e493c1d2e9498f61b4605eb36cff342d5946bd22abc008cb0170f",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1485",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1485",
+     "currency": "EUR",
+     "effective_date": "2025-05-15",
+     "intent": "fx_salary_confirmed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_204",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_263"
+  }
+ },
+ "message_205": {
+  "key": "77d99b02569377c4e1b26857045a424478b6c4184cb69aa13ee6fdd55e295215",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_value_unrealized",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_205",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_264"
+  }
+ },
+ "message_206": {
+  "key": "4911d3fcb047c3929125316401528618ac21d690352c022f4b9e2ea6e9ab3555",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "seasonal_contract_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_206",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_265"
+  }
+ },
+ "message_207": {
+  "key": "4ecc28ce48ace004389613e54d7ad5b76818f1a10edcaf80b7a6c21cc5af925f",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_value_unrealized",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_207",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_266"
+  }
+ },
+ "message_208": {
+  "key": "5e55d81efb7c1192795485767ddae5b95fd2510b6a48d0ad55c45a8d452a72a3",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "fx_bill_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_208",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_267"
+  }
+ },
+ "message_209": {
+  "key": "33d56f0c403f4018bfe68f994d3c8a1a4a9615ae168e97747d66d38a3d3a23e3",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_claim_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_209",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_268"
+  }
+ },
+ "message_21": {
+  "key": "34d5f34a27d6ec1d3992ac2e74aebc3446001ab0357ebb04fc6fae20a969d182",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "seasonal_contract_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_21",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_29"
+  }
+ },
+ "message_210": {
+  "key": "33080a23c095eca4812fd19c577d161cf197bea1d8a452fe4f730818c8033bfe",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "38280",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "38280",
+     "currency": "ZAR",
+     "effective_date": "2025-11-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_210",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_269"
+  }
+ },
+ "message_211": {
+  "key": "1936b218cc814d34bf9360a96832904f95c470b3cdcfb32202fa43c3e0581abf",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "103000",
+     "INR"
+    ],
+    [
+     "46350",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "103000",
+     "currency": "INR",
+     "effective_date": null,
+     "intent": "salary_next_with_arrears",
+     "percent": null,
+     "secondary_amount": "46350"
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_211",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_271"
+  }
+ },
+ "message_212": {
+  "key": "7c4dd658c81ce655c3740bf938809e260817271cae03c7c1f045c2046465c7a5",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "bonus_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_212",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_272"
+  }
+ },
+ "message_213": {
+  "key": "b5c9499feb2f7947f10a3f3c220b034fdafc5cf4078f7e9a489d2730e23aaf09",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "internal_transfer",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_213",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_273"
+  }
+ },
+ "message_214": {
+  "key": "2f65a4611fd347780f62415426185eb7085cf7c6a6e741e2b95515330efee4c0",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "fx_refund_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_214",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_274"
+  }
+ },
+ "message_215": {
+  "key": "5bbf310ca778b2b3633a914fadd06e4454af0149a3e0eebd461a3efa09d89774",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "refund_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_215",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_275"
+  }
+ },
+ "message_22": {
+  "key": "ec297979bd31bda9f8744a8f3538cd0940d5766189ca5acaa81b6bda9c37a395",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "54120",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "54120",
+     "currency": "ZAR",
+     "effective_date": "2025-02-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_22",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_32"
+  }
+ },
+ "message_23": {
+  "key": "4837352300e839435ba6a3275faef3fcc8700eeb58323c29600a138632628b47",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "internal_transfer",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_23",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_33"
+  }
+ },
+ "message_24": {
+  "key": "8560de4fcf3ff22f2fd705a754c31f94a4631d346c133146ada40b701d13c586",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "196000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "196000",
+     "currency": "INR",
+     "effective_date": "2024-12-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_24",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_34"
+  }
+ },
+ "message_25": {
+  "key": "fadf1dd6cfc4ff2c3721e424be09ab9d24b45e8e1794ea6714291600ca698158",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "refund_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_25",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_35"
+  }
+ },
+ "message_26": {
+  "key": "4b5babd158c281662e85b789c78e263fdbd8000069cd87bb7227ad5ad5438c0d",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2988",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2988",
+     "currency": "USD",
+     "effective_date": "2026-07-15",
+     "intent": "salary_increase",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_26",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_36"
+  }
+ },
+ "message_27": {
+  "key": "844fe2aba3b378f6fee5d5874a579840b6f33a6ff932e205f326ab562360db18",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "21090000",
+     "IDR"
+    ],
+    [
+     "9490500",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "21090000",
+     "currency": "IDR",
+     "effective_date": null,
+     "intent": "salary_next_with_arrears",
+     "percent": null,
+     "secondary_amount": "9490500"
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_27",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_37"
+  }
+ },
+ "message_28": {
+  "key": "246d75c9aa8c14d3c3872bfa9b4da3b2fb49c3330d13bd45275c1380ebaded89",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_proceeds_settled",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_28",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_38"
+  }
+ },
+ "message_29": {
+  "key": "ebcc0a5e4443dccd2c8e4cce72e80ae0f6ece11d6c40c880b999b246541156b7",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1760",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1760",
+     "currency": "EUR",
+     "effective_date": "2024-06-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_29",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_40"
+  }
+ },
+ "message_30": {
+  "key": "2e74217e79f24b932b50ddc1be2a3115cfb7db33cb6301d46f6d29bb10d925c4",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "148000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "148000",
+     "currency": "INR",
+     "effective_date": null,
+     "intent": "remaining_household_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_30",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_42"
+  }
+ },
+ "message_31": {
+  "key": "7dd2037ab36ed56a2f05724b37400f6e75d814e8d3e6c1cf8c42a7f25aab5090",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "32870000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "32870000",
+     "currency": "IDR",
+     "effective_date": "2024-09-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_31",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_43"
+  }
+ },
+ "message_32": {
+  "key": "55ef86724dcf0f150479ce6e9ed053c7222b523933672c482d2fb8a2f5928c9e",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "115000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "115000",
+     "currency": "INR",
+     "effective_date": "2025-02-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_32",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_44"
+  }
+ },
+ "message_33": {
+  "key": "26b8b64c56472031f5233c93aca24f2aff427094ff3327d7facfa81f5c4dc3c3",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "17290000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "17290000",
+     "currency": "IDR",
+     "effective_date": "2026-07-15",
+     "intent": "salary_increase",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_33",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_45"
+  }
+ },
+ "message_34": {
+  "key": "16adf758bc7e8bb393065b690e1db03a82bfbd40d6d109da6696a0a1c777835f",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "payout_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_34",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_47"
+  }
+ },
+ "message_35": {
+  "key": "496291bf59ec36de39a744e15c0f93a2d2255ee7e5045b85b288a55fabbb7ff1",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "receipt_has_amount",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_35",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_48"
+  }
+ },
+ "message_36": {
+  "key": "fff35bc5374d29b27e33f459eff6d6e947ce224a52d17674a60daa77df826269",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "31464000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "31464000",
+     "currency": "IDR",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_36",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_49"
+  }
+ },
+ "message_37": {
+  "key": "bd02db4f62d77f2eaa0ff6e47033441809616799349ed8e045a32093420f44a6",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "126000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "126000",
+     "currency": "INR",
+     "effective_date": null,
+     "intent": "remaining_household_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_37",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_50"
+  }
+ },
+ "message_38": {
+  "key": "94d9a37a1539780cb7d94d9539213edcb7cdf29cc37401726f72965449cc6a52",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "69000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "69000",
+     "currency": "INR",
+     "effective_date": "2024-06-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_38",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_52"
+  }
+ },
+ "message_39": {
+  "key": "757f7116a73fc64878ebedf6ccf9ad24b43361c414adc93c3686e848553f8d2b",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "refund_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_39",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_53"
+  }
+ },
+ "message_40": {
+  "key": "0704a65b3333edf8b4fef9f857b4ecb6a67b4f2f581fa58ad34b0bd68f274011",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "42460",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "42460",
+     "currency": "ZAR",
+     "effective_date": "2026-07-15",
+     "intent": "salary_increase",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_40",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_54"
+  }
+ },
+ "message_41": {
+  "key": "842f01c2792b6c3d4f8106327b56382c65a081cd9ae6bd666697c06c5c6cd6ac",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "internal_transfer",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_41",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_57"
+  }
+ },
+ "message_42": {
+  "key": "ec0f939a2d51ca4172d807a11dd8f9cbc774c86a0a6f87a4afb5c4e4321376a4",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "25840000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "25840000",
+     "currency": "IDR",
+     "effective_date": null,
+     "intent": "remaining_household_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_42",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_58"
+  }
+ },
+ "message_43": {
+  "key": "024b6137316e70fec774a8dcd68f523c7fade3f43cf0ea57aac5b345441e2a7a",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "payout_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_43",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_59"
+  }
+ },
+ "message_44": {
+  "key": "6723dd789cbd177bacb87b21f95cc1bf85818ed19d2c604634ff2614465ea9e5",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "530.4",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "530.4",
+     "currency": "USD",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_44",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_60"
+  }
+ },
+ "message_45": {
+  "key": "f4fb62daad670c8b32bad9ccf812b2940ce5988eeeea396720a7c8d9f343d2e8",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "seasonal_contract_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_45",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_61"
+  }
+ },
+ "message_46": {
+  "key": "0597b890114c48f8da297e7d8c4f0c3122ab1961c06d406d43f87f3ee87253f4",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2112",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2112",
+     "currency": "USD",
+     "effective_date": "2025-08-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_46",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_62"
+  }
+ },
+ "message_47": {
+  "key": "54100e81a772e0014d4a12123ddebe83f62ba99d7f2fe45d63c0ed4649b585e6",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "fx_refund_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_47",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_64"
+  }
+ },
+ "message_48": {
+  "key": "be8e56bf2cc281007d5efac62c8425c8d4361920197bc9470708a3357ffa1031",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "bonus_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_48",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_65"
+  }
+ },
+ "message_49": {
+  "key": "1897fb19403d436a98527429597bfd351ab97fe8dc5d34399ea8220f0aa55a36",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "116000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "116000",
+     "currency": "INR",
+     "effective_date": "2026-04-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_49",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_66"
+  }
+ },
+ "message_50": {
+  "key": "ff691fa6fcb17bd383a0b756cdce037e71f19c3bf3eb9443a59e2ac3fae22e4c",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": "2025-02-23",
+     "intent": "payday_moved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_50",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_68"
+  }
+ },
+ "message_51": {
+  "key": "8c048d82ac2856ccabb40d76f9f899b02e010983a91a72712a42f4ef4f315fbd",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "rent_increase_pct",
+     "percent": "12",
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_51",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_69"
+  }
+ },
+ "message_52": {
+  "key": "1a12ad759b11fedc88cd9546a415e1359ae8edd749eb927f0c82faefc460c0b7",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_value_unrealized",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_52",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_70"
+  }
+ },
+ "message_53": {
+  "key": "08970219d10ff757603caa164980ee703ec2b12d46b203020ffc08d46513ad79",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "696",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "696",
+     "currency": "USD",
+     "effective_date": "2025-05-15",
+     "intent": "fx_salary_confirmed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_53",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_71"
+  }
+ },
+ "message_54": {
+  "key": "9f6e5ae0952e51fae21e1e73cb1a61e075549ba5b122ad07b9fd206bf47075f8",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "18700",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "18700",
+     "currency": "ZAR",
+     "effective_date": "2026-07-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_54",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_72"
+  }
+ },
+ "message_55": {
+  "key": "8460b4fca02f317e490191b8e4ab9176456893d5bc27c47046077a36c478fdaf",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "rent_increase_pct",
+     "percent": "12",
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_55",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_73"
+  }
+ },
+ "message_56": {
+  "key": "ec6f70c181a12c9056eff112551328a9ebe48434d641fe38624c57eb01127228",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "26180",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "26180",
+     "currency": "ZAR",
+     "effective_date": "2025-08-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_56",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_74"
+  }
+ },
+ "message_57": {
+  "key": "b1d6e422bc2e1e810b560915167b18936b45a5e6f164f4d14e24eac5d7bc1f9f",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "employment_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_57",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_75"
+  }
+ },
+ "message_58": {
+  "key": "a392888744ec897cbb8629d719f32992198c04a03aa40879cab2796e794979e6",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "3072",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "3072",
+     "currency": "USD",
+     "effective_date": null,
+     "intent": "base_salary_commission_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_58",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_76"
+  }
+ },
+ "message_59": {
+  "key": "d8ffeac83150cfd49537465e1881e9f904b38f3d54d3d850527f1817d512f6f2",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "refund_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_59",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_77"
+  }
+ },
+ "message_60": {
+  "key": "f84174d821d1345015daf6e9e3a2aaf35f8e6998428e7f16fc05a47544ef8499",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "158000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "158000",
+     "currency": "INR",
+     "effective_date": null,
+     "intent": "base_salary_commission_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_60",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_80"
+  }
+ },
+ "message_61": {
+  "key": "549facc49c115e22a112858832f046d961127d5ae08e81ff5eee1139c8b36e93",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "rent_increase_pct",
+     "percent": "12",
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_61",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_81"
+  }
+ },
+ "message_62": {
+  "key": "b10fe060a841c0c45459b4b7efdf62f0cbde1fc9e25a58c69d89df15fd4a558e",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1752",
+     "USD"
+    ],
+    [
+     "788.4",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1752",
+     "currency": "USD",
+     "effective_date": null,
+     "intent": "salary_next_with_arrears",
+     "percent": null,
+     "secondary_amount": "788.4"
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_62",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_82"
+  }
+ },
+ "message_63": {
+  "key": "a513532fce8ba7d52a070ced505448a5d50a33c9b2e77deb9bc54327e4796f91",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "62000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "62000",
+     "currency": "INR",
+     "effective_date": "2025-05-15",
+     "intent": "salary_resumes_with_childcare",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_63",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_83"
+  }
+ },
+ "message_64": {
+  "key": "02bb78412dee99ff00545b5d92b0ed0a6599bc1c186f517f9bbe35049da8a9d6",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "receipt_has_amount",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_64",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_84"
+  }
+ },
+ "message_65": {
+  "key": "f196fb93a608148fa4a9dd739ca4147f81368b7029e28e1a430f7c05446f33fc",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "8618400",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "8618400",
+     "currency": "IDR",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_65",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_85"
+  }
+ },
+ "message_66": {
+  "key": "7f20af9a3aa2840b9b15f2e0bd24ec7239758b8e3a5c8cd873022e70f0652bad",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "251000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "251000",
+     "currency": "INR",
+     "effective_date": "2026-01-15",
+     "intent": "salary_resumes_with_childcare",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_66",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_87"
+  }
+ },
+ "message_68": {
+  "key": "af31c507ead124b549dd306e043b367fdaa01b05954de89690710d9962ad1335",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "13420",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "13420",
+     "currency": "ZAR",
+     "effective_date": "2026-07-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_68",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_90"
+  }
+ },
+ "message_69": {
+  "key": "1ed2fa51596416724061dda8c263ca061cdea9d122502a83ccd810349da76f3c",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "failed_debit_retry",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_69",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_91"
+  }
+ },
+ "message_70": {
+  "key": "cd7fa2ea0db2625f6046fb79ff65a92793b3fea6c4fb28b493f38f92351da438",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "49280",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "49280",
+     "currency": "ZAR",
+     "effective_date": null,
+     "intent": "base_salary_commission_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_70",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_92"
+  }
+ },
+ "message_71": {
+  "key": "ff581f9bf31b3a9bab411a1caad454f64fbd43e786100c431d7325e398940cdd",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_claim_processing",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_71",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_93"
+  }
+ },
+ "message_72": {
+  "key": "7b5c2af8bcd0e2b6ada4d9b94846e8c079a4fd0c66d4f33bc957329bc67d54e1",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "924",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "924",
+     "currency": "EUR",
+     "effective_date": "2024-12-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_72",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_94"
+  }
+ },
+ "message_73": {
+  "key": "a30a6dbed73f916f72e3989387b2a77f0eb436c0a0868d15358e61820763e391",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": "2025-05-23",
+     "intent": "payday_moved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_73",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_95"
+  }
+ },
+ "message_74": {
+  "key": "88da3b2c19479d87cee23362e0203ad1900eec9c762bfdd4b7767cc7e60b4f62",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1804",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1804",
+     "currency": "EUR",
+     "effective_date": "2025-08-15",
+     "intent": "fx_salary_confirmed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_74",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_98"
+  }
+ },
+ "message_75": {
+  "key": "a392405ce473f709fb826a3cc8643facd98fd11ebfff62ad0ec01b6a0b9fce60",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_proceeds_settled",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_75",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_101"
+  }
+ },
+ "message_76": {
+  "key": "ec140be74e19979cca79e57a574bf153046dfd30466d9497111f1153ad685717",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1419",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1419",
+     "currency": "EUR",
+     "effective_date": "2026-04-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_76",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_102"
+  }
+ },
+ "message_77": {
+  "key": "0a0db1146b445b9336bc2a5afb3506c715b1207b6b5ae21025840bd8de26e02e",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "164880",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "164880",
+     "currency": "INR",
+     "effective_date": null,
+     "intent": "temporary_pay",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_77",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_103"
+  }
+ },
+ "message_78": {
+  "key": "7c5fa4901d8b8293f10f761db69702c2ed748bc357ba4ad570f6bc3aad1dd977",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "35860",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "35860",
+     "currency": "ZAR",
+     "effective_date": null,
+     "intent": "base_salary_commission_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_78",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_104"
+  }
+ },
+ "message_79": {
+  "key": "f54d88c987fbbe81ca2998b6244499659743612718ca67e922fb25fd9c6f5a0c",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_value_unrealized",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_79",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_105"
+  }
+ },
+ "message_80": {
+  "key": "a9dcf6a342509436c52aac314100261310b605937e1f133c187db41df0049f63",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1815",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1815",
+     "currency": "EUR",
+     "effective_date": "2024-12-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_80",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_106"
+  }
+ },
+ "message_81": {
+  "key": "666cbe9413c9e7e7d12e437ed6e0539c897d06552781b2bb5b71df444450cffa",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "2123",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "2123",
+     "currency": "EUR",
+     "effective_date": "2025-05-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_81",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_107"
+  }
+ },
+ "message_82": {
+  "key": "4726006e935752acd2a655155bb8d7730f49b29799bc2766a4b776235fae1759",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "33440",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "33440",
+     "currency": "ZAR",
+     "effective_date": null,
+     "intent": "base_salary_commission_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_82",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_108"
+  }
+ },
+ "message_83": {
+  "key": "03fc1370396c9b0d59923e33d38e76ff31d04679bbfbcadb027fd3b8d96a486d",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "16720",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "16720",
+     "currency": "ZAR",
+     "effective_date": "2025-08-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_83",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_110"
+  }
+ },
+ "message_84": {
+  "key": "0fb0498a8af9210b17955c38066044d357741c0de36e767c63c5818eb50084de",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "employment_ended",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_84",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_111"
+  }
+ },
+ "message_85": {
+  "key": "06998e51388741a2d813bd543720346f370054181a9577bd16896c4442b48315",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "627",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "627",
+     "currency": "EUR",
+     "effective_date": "2024-06-15",
+     "intent": "first_salary",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_85",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_112"
+  }
+ },
+ "message_86": {
+  "key": "277f4bc8597826274d520d2ad876e98c130d3aa848f61f8dd24d2744d367acbf",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1296",
+     "USD"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "receipt_has_amount",
+     "percent": null,
+     "secondary_amount": null
+    },
+    {
+     "amount": "1296",
+     "currency": "USD",
+     "effective_date": "2026-09-15",
+     "intent": "fx_salary_confirmed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_86",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_113"
+  }
+ },
+ "message_87": {
+  "key": "175a2ad5dbffee873cb86129e0a635f6cf2b6b01b79caa4267fbe321ba92771d",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "148200",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "148200",
+     "currency": "INR",
+     "effective_date": null,
+     "intent": "next_salary_reduced",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_87",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_114"
+  }
+ },
+ "message_88": {
+  "key": "c14515a0baa78c57319dd316053399a2a749399cbdd3ab6be98ae0b698d35493",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_proceeds_settled",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_88",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_115"
+  }
+ },
+ "message_89": {
+  "key": "ca35223ada41684d63f37bb84a10902b9a5c0968d1eccb60e733fd30884b9016",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "1188",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "1188",
+     "currency": "EUR",
+     "effective_date": "2026-07-15",
+     "intent": "salary_increase",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_89",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_117"
+  }
+ },
+ "message_90": {
+  "key": "17ecc085e7709826005372c302bdfffa387de65d331266ce10b573ba8ed39658",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "759",
+     "EUR"
+    ],
+    [
+     "341.55",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "759",
+     "currency": "EUR",
+     "effective_date": null,
+     "intent": "salary_next_with_arrears",
+     "percent": null,
+     "secondary_amount": "341.55"
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_90",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_118"
+  }
+ },
+ "message_91": {
+  "key": "c714c05ba9a1c22b5700d4eb65b345242f8ff30170e6e4bc71379d99314d509f",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "176000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "176000",
+     "currency": "INR",
+     "effective_date": "2025-05-15",
+     "intent": "salary_resumes_with_childcare",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_91",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_119"
+  }
+ },
+ "message_92": {
+  "key": "7f85575b2c2daab96fda98c8ea4936653237deef4f715f66e4b83faf74d3593a",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "investment_sale_settled",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_92",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_120"
+  }
+ },
+ "message_93": {
+  "key": "384758b39e2b6da90d37c2839fc17ac99acbd1ec35db412aac2117ac6f352425",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "15390000",
+     "IDR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "15390000",
+     "currency": "IDR",
+     "effective_date": "2025-08-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_93",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_122"
+  }
+ },
+ "message_94": {
+  "key": "5050198d0f9dd3d769adfa4ad63ec58b402a95d42f58d3cca7760f3ffde4a042",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "payout_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "id",
+   "message_id": "message_94",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_123"
+  }
+ },
+ "message_95": {
+  "key": "6be7cf76c5cabbc9b4bf5fdcf02830f2e1a2f7715cd3e0b89e2eef50454c0d67",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "748",
+     "EUR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "748",
+     "currency": "EUR",
+     "effective_date": "2025-11-15",
+     "intent": "fx_salary_confirmed",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_95",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_125"
+  }
+ },
+ "message_96": {
+  "key": "3354b82d4fe74ec653d0a5ec456a2c6f098b6ba2393f65cb09f5df815109c738",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "152000",
+     "INR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "152000",
+     "currency": "INR",
+     "effective_date": "2026-07-15",
+     "intent": "invoice_approved",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_96",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_126"
+  }
+ },
+ "message_97": {
+  "key": "6a1e87574e1571d3f735836fc2812256ce83fc573412f6a58f7797f9b790d6fd",
+  "reading": {
+   "amounts_mentioned": [
+    [
+     "50160",
+     "ZAR"
+    ]
+   ],
+   "error": "",
+   "facts": [
+    {
+     "amount": "50160",
+     "currency": "ZAR",
+     "effective_date": "2024-09-15",
+     "intent": "salary_resumes_with_childcare",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_97",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_127"
+  }
+ },
+ "message_98": {
+  "key": "10b2a0f49ee210621cb38d62b87895718643237a28beff76e1504770fd1dc445",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "bonus_pending",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_98",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_128"
+  }
+ },
+ "message_99": {
+  "key": "2b42eceefe615f9b2d0218ac12a3dbf64ba2e7d81f0d792abf139dc84a2e65cb",
+  "reading": {
+   "amounts_mentioned": [],
+   "error": "",
+   "facts": [
+    {
+     "amount": null,
+     "currency": null,
+     "effective_date": null,
+     "intent": "prize_proceeds_settled",
+     "percent": null,
+     "secondary_amount": null
+    }
+   ],
+   "instruction_phrase": null,
+   "is_instruction_attempt": false,
+   "language": "en",
+   "message_id": "message_99",
+   "model": "gpt-5",
+   "source": "model",
+   "user_id": "user_129"
+  }
+ }
+}
